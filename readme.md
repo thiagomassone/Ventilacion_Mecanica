@@ -37,4 +37,7 @@ Las señales procesadas incluyen:
     ```bash
     streamlit run app/main.py
 
+## 🗂Estructura del proyecto:
+![alt text](image.png)
+
 Desarrollado por Thiago Massone - 2026.
