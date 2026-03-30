@@ -34,6 +34,7 @@ Las señales procesadas incluyen:
     pip install -r requirements.txt
 
 4. **Correr la aplicación:**
+    ```bash
     streamlit run app/main.py
 
 Desarrollado por Thiago Massone - 2026.
